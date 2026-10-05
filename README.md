@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **576.0.0.42.73**
+- App version: **581.0.0.45.58**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
@@ -18,7 +18,7 @@
 ---
 
 ## 🎥 Evidence
-![Facebook Android](assets/v576.jpg)
+![Facebook Android](assets/v581.jpg)
 
 ---
 
@@ -59,7 +59,7 @@
   <tbody>
     <tr>
       <td rowspan="3" align="center"><code>com.facebook.katana</code></td>
-      <td align="center">576.0.0.42.73</td>
+      <td align="center">581.0.0.45.58</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td colspan="4" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
